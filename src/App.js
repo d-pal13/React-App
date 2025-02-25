@@ -1,4 +1,6 @@
+//---import functions---
 
+//---import styling from app.css file---
 import './App.css';
 import TicTacToe from './Components/TicTacToe/TicTacToe';
 
